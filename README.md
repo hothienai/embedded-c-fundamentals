@@ -4,6 +4,7 @@
     <img src="/assets/images/embedded-c-funfamentals.png" title="Embedded C Fundamentals" style="width: 100vw; min-width: 200px"/>
   </a>
 </p>
+
 :dart: [Embedded C Fundamentals](https://github.com/Sigma-eLabs/Embedded-C-Fundamentals) is focusing on helping you get familiar with embedded programming world step-by-step.
 
 :key: By having the fudamental knowledge about the embedded C, will enable you to have below skills:
@@ -16,7 +17,7 @@
 :rocket: The topics may be simple, but I believe that every topic I bring here is a step-stone enable you to approach the much higher complex technical topics in embedded programming world and help you develop your career path!
 
 # Topics
-List of topics you can explore here:
+:books: List of topics you can explore here:
 | Topic    | Description |
 | :-------- | :------- |
 | [Embedded C Program](/e/)  | Examples of BSP implementation techniques  |
@@ -31,6 +32,7 @@ The below requistions are used for demostration only. For your case, you can cho
     <img src="/assets/images/nucleo-f401re.png" title="STM32 Nucleo-64 Development Board" style="min-width: 200px"/>
   </a>
 </p>
+
 * [Tiva C Series TM4C123G LaunchPad Evaluation Kit - EK-TM4C123GXL](https://www.ti.com/tool/EK-TM4C123GXL). The main microcontroller on the development kit is ARM Cortex-M4F 32-bit produced by Texas Instruments. Moreover, there is on-board Debugger/Programmer (Stellaris ICDI) that enable user quickly flashes and debugs easily.
 <p align="center">
   <a href="." title="Tiva C Series TM4C123G LaunchPad Evaluation Kit">
@@ -89,13 +91,16 @@ If you see the topics are useful, you can support me a coffee :coffee:. It will 
   </a>
 </p>
 
+# Authors
+This page is authorized by Sigma-eLabs - founded by Ho Thien Ai.
+<p align="center">
+  <a href="https://github.com/Sigma-eLabs" title="Sigma eLabs">
+    <img src="/assets/images/SigmaeLabsBannerv2.png" title="Sigma eLabs" style="width: 100vw; min-width: 200px"/>
+  </a>
+</p>
+
 # Back to Homepage
 :house: [Back to Homepage](https://github.com/Sigma-eLabs/Embedded-C-Fundamentals)
 
 # Explore more
 :point_right: [Explore more](https://github.com/Sigma-eLabs)
-<p align="center">
-  <a href="." title="Sigma eLabs">
-    <img src="/assets/images/SigmaeLabsBannerv2.png" title="Sigma eLabs" style="width: 100vw; min-width: 200px"/>
-  </a>
-</p>
