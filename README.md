@@ -95,7 +95,7 @@ If you see the topics are useful, you can support me a coffee :coffee:. It will 
 </p>
 
 # Back to Homepage
-[:house: Back to Homepage](https://github.com/Sigma-eLabs/Embedded-C-Fundamentals)
+:house: [Back to Homepage](https://github.com/Sigma-eLabs/Embedded-C-Fundamentals)
 
 # Explore more
-[:point_right: Explore more](https://github.com/Sigma-eLabs)
+:point_right: [Explore more](https://github.com/Sigma-eLabs)
