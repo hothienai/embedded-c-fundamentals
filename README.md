@@ -84,7 +84,7 @@ The below requistions are used for demostration only. For your case, you can cho
 
 :thumbsup: I'm always welcome your ideas and thank for your insteresting!
 # Buy me a coffee
-If you see the topics are useful, you can support me a coffee :coffee:. It will be a big motivation for me to bring more topics. Thank you! :pray:
+If you see the topics are useful, you can support me a coffee :coffee:. It will be a big motivation for me to bring more wonderful topics. Thank you! :pray:
 <p align="center">
   <a href="https://github.com/HoThienAi/donate-me-a-coffee" title="Buy me a coffee">
     <img src="/assets/images/buy-me-a-coffee.png" title="Buy me a coffee" style="width: 100vw; min-width: 200px"/>
