@@ -20,7 +20,7 @@
 :books: List of topics you can explore here:
 | Topic    | Description |
 | :-------- | :------- |
-| [Embedded C Program](/e/)  | What are the elements one Embedded C Program has?  |
+| [Microcontroller Architecture Overview](/resources/uc-architecture/)  | How is microcontroller desined? |
 
 # Requisitions
 The below requistions are used for demostration only. For your case, you can choose another setup and implement the idea provided in the examples.
@@ -92,16 +92,9 @@ The below requistions are used for demostration only. For your case, you can cho
 * LinkedIn [Thien Ai Ho](https://www.linkedin.com/in/thien-ai-ho/).
 
 :thumbsup: I'm always welcome your ideas and thank for your insteresting!
-# Buy me a coffee
-If you see the topics are useful, you can support me a coffee :coffee: by clicking the button below. It will be a big motivation for me to bring more wonderful topics. Thank you! :pray:
-<p align="center">
-  <a href="https://github.com/HoThienAi/donate-me-a-coffee" title="Buy me a coffee">
-    <img src="/assets/images/buy-me-a-coffee.png" title="Buy me a coffee" style="width: 100vw; min-width: 200px"/>
-  </a>
-</p>
 
 # Authors
-This page is authorized by Sigma-eLabs - founded by Ho Thien Ai.
+This page is authorized by Ho Thien Ai.
 <p align="center">
   <a href="https://github.com/HoThienAi/" title="Sigma eLabs">
     <img src="/assets/images/sigma-elabs-banner.png" title="Sigma eLabs" style="width: 100vw; min-width: 200px"/>
