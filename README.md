@@ -26,7 +26,14 @@
 The below requistions are used for demostration only. For your case, you can choose another setup and implement the idea provided in the examples.
 ## Hardware
 :wrench: Development Kits used in the most of topics:
-* [STM32 Nucleo-64 Development Board](https://www.st.com/en/evaluation-tools/nucleo-f401re.html). The main microcontroller on the development kit is ARM Cortex-M4 32-bit produced by ST. Moreover, there is on-board ST-LINK programmer/debugger that enable user quickly flashes and debugs easily.
+* [Discovery kit with STM32F407VG MCU](https://www.st.com/en/evaluation-tools/stm32f4discovery.html). The main microcontroller on the development kit is ARM Cortex-M4 32-bit STM32F407VG. This development kit is produced by ST. Moreover, there is on-board ST-LINK programmer/debugger that enable user quickly flashes and debugs easily.
+<p align="center">
+  <a href="." title="Discovery kit with STM32F407VG MCU">
+    <img src="/assets/images/discovery-kit-with-stm32f407vg.PNG" title="Discovery kit with STM32F407VG MCU" style="min-width: 200px"/>
+  </a>
+</p>
+
+* [STM32 Nucleo-64 Development Board](https://www.st.com/en/evaluation-tools/nucleo-f401re.html). The main microcontroller on the development kit is ARM Cortex-M4 32-bit. This development kit is also produced by ST. Moreover, there is on-board ST-LINK programmer/debugger that enable user quickly flashes and debugs easily.
 <p align="center">
   <a href="." title="STM32 Nucleo-64 Development Board">
     <img src="/assets/images/nucleo-f401re.png" title="STM32 Nucleo-64 Development Board" style="min-width: 200px"/>
@@ -65,12 +72,14 @@ The below requistions are used for demostration only. For your case, you can cho
 
 ## Documents
 :page_facing_up: You can prefer the below documents for more detailed information:
+* [Discovery kit with STM32F407VG MCU](https://www.st.com/resource/en/user_manual/um1472-discovery-kit-with-stm32f407vg-mcu-stmicroelectronics.pdf)
 * [STM32 Nucleo-64 boards (MB1136) User Manual](https://www.st.com/resource/en/user_manual/um1724-stm32-nucleo64-boards-mb1136-stmicroelectronics.pdf)
+* [STM32F405xx STM32F407xx Mircocontroller Datasheet](https://www.st.com/resource/en/datasheet/dm00037051.pdf)
 * [STM32F401xD STM32F401xE Microcontroller Datasheet](https://www.st.com/resource/en/datasheet/stm32f401re.pdf)
-* [Tiva™ C Series TM4C123G LaunchPad Evaluation Board User's Guide](https://github.com/Sigma-eLabs/technical-resources/blob/main/tiva-c-series/spmu296.pdf)
-* [Tiva™ TM4C123GH6PM Microcontroller Datasheet](https://github.com/Sigma-eLabs/technical-resources/blob/main/tiva-c-series/tm4c123gh6pm.pdf)
-* [Cortex Microcontroller Software Interface Standard (CMSIS)](https://github.com/Sigma-eLabs/technical-resources/tree/main/tiva-c-series/CMSIS)
-* [Tiva™ TM4C123GH6PM Microcontroller Software Support Package](https://github.com/Sigma-eLabs/technical-resources/tree/main/tiva-c-series/ek-tm4c123gxl)
+* [Tiva™ C Series TM4C123G LaunchPad Evaluation Board User's Guide](https://www.ti.com/lit/ug/spmu296/spmu296.pdf?ts=1751851064369&ref_url=https%253A%252F%252Fwww.google.com%252F)
+* [Tiva™ TM4C123GH6PM Microcontroller Datasheet](https://www.ti.com/lit/ds/symlink/tm4c123gh6pm.pdf?ts=1751851133571&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FTM4C123GH6PM%253Futm_source%253Dgoogle%2526utm_medium%253Dcpc%2526utm_campaign%253Depd-null-null-GPN_EN-cpc-pf-google-soas_en_cons%2526utm_content%253DTM4C123GH6PM%2526ds_k%253DTM4C123GH6PM+Datasheet%2526DCM%253Dyes%2526gad_source%253D1%2526gad_campaignid%253D11598374538%2526gbraid%253D0AAAAAC068F0bzZ8dihLtGrnV1NQpe3dU3%2526gclid%253DCj0KCQjwvajDBhCNARIsAEE29WqaMRC8N_5Qd0aX3VLcyh-dPe_S1-Q_Jke01T5noRDUBxR3QQkN7d4aAtmTEALw_wcB%2526gclsrc%253Daw.ds)
+* [Cortex Microcontroller Software Interface Standard (CMSIS)](https://github.com/HoThienAi/technical-resources/tree/main/tiva-c-series/CMSIS)
+* [Tiva™ TM4C123GH6PM Microcontroller Software Support Package](https://github.com/HoThienAi/technical-resources/tree/main/tiva-c-series/ek-tm4c123gxl)
 
 # Assumptions
 :heavy_check_mark: When I'm doing this series, I have below assumptions:
@@ -95,7 +104,7 @@ If you see the topics are useful, you can support me a coffee :coffee:. It will 
 This page is authorized by Sigma-eLabs - founded by Ho Thien Ai.
 <p align="center">
   <a href="https://github.com/HoThienAi/" title="Sigma eLabs">
-    <img src="/assets/images/SigmaeLabsBannerv2.png" title="Sigma eLabs" style="width: 100vw; min-width: 200px"/>
+    <img src="/assets/images/sigma-elabs-banner.png" title="Sigma eLabs" style="width: 100vw; min-width: 200px"/>
   </a>
 </p>
 
