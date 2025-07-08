@@ -20,7 +20,7 @@
 :books: List of topics you can explore here:
 | Topic    | Description |
 | :-------- | :------- |
-| [Microcontroller Architecture Overview](/resources/uc-architecture/)  | How is microcontroller desined? |
+| [Microcontroller Architecture Overview](/resources/uc-architecture/)  | What is key components of microcontroller architecture? |
 
 # Requisitions
 The below requistions are used for demostration only. For your case, you can choose another setup and implement the idea provided in the examples.
@@ -93,7 +93,7 @@ The below requistions are used for demostration only. For your case, you can cho
 
 :thumbsup: I'm always welcome your ideas and thank for your insteresting!
 
-# Authors
+# Author
 This page is authorized by Ho Thien Ai.
 <p align="center">
   <a href="https://github.com/HoThienAi/" title="Sigma eLabs">
