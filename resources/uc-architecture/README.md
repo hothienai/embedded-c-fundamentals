@@ -21,7 +21,7 @@
 
 # Microcontroller Architecture Overview
 * Nowadays, there is a interesting thing is every thing will follow an standards. And the microcontroller architecture is not an exception. They are designed based on some architecture patterns like Harvard Architecture or Von Neumann Architecture.
-*Here, I won't go into details about of these 2 architectures. I will go straight forward to the very common used architecture in morden embedded world, that is Von Neumann Architecture.
+* Here, I won't go into details about of these 2 architectures. I will go straight forward to the very common used architecture in morden embedded world, that is Von Neumann Architecture.
 
 * So, what is exactly it looked like? In a simple form, you can see it as below:
 <p align="center">
@@ -32,7 +32,7 @@
 
 :point_right: Source: [www.tutorialspoint.com](https://www.tutorialspoint.com/microprocessor/microcontrollers_8051_architecture.htm)
 
-Take a look on that you can see, there are serval components:
+Lets take a look on that you can see, there are serval components:
 * Central Processing Unit (CPU)
 * Interrupt Control
 * Memory Unit (ROM, RAM)
