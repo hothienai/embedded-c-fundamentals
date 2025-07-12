@@ -1,7 +1,7 @@
 # STM32F4 Memory Mapping
 <p align="center">
   <a href="." title="STM32F4 Memory Mapping">
-    <img src="/resources/stm32f4-overview/stm32f4-memory-mapping/images/mem_map_cover.png" title="STM32F4 Memory Mapping" style="width: 100vw; min-width: 200px"/>
+    <img src="/resources/stm32f4-overview/stm32f4-memory-mapping/images/mem_map_cover.png" title="STM32F4 Memory Mapping" style="min-width: 200px"/>
   </a>
 </p>
 
@@ -38,7 +38,7 @@ Reference documents I use in this article are provided by ST. You can find here:
 :mag_right: STM32F40xxx is a 32-bit microcontroller with a 32-bit address space ranging from 0x0000 0000 to 0xFFFF FFFF. This address space is structured and segmented into blocks, each serving a specific function. The following figure illustrates the memory map of the STM32F40xxx.
 <p align="center">
   <a href="." title="STM32F40xxx memory map">
-    <img src="/resources/stm32f4-overview/stm32f4-memory-mapping/images/STM32F40xxx_memmap.PNG" title="STM32F40xxx memory map" style="width: 100vw; min-width: 200px"/>
+    <img src="/resources/stm32f4-overview/stm32f4-memory-mapping/images/STM32F40xxx_memmap.PNG" title="STM32F40xxx memory map" style="min-width: 200px"/>
   </a>
 </p>
 
@@ -46,7 +46,7 @@ Reference documents I use in this article are provided by ST. You can find here:
 # 512-Mbyte Block 0 - Code
 <p align="center">
   <a href="." title="Code">
-    <img src="/resources/stm32f4-overview/stm32f4-memory-mapping/images/Block0.png" title="Code" style="width: 100vw; min-width: 200px"/>
+    <img src="/resources/stm32f4-overview/stm32f4-memory-mapping/images/Block0.png" title="Code" style="min-width: 200px"/>
   </a>
 </p>
 
@@ -58,7 +58,7 @@ Reference documents I use in this article are provided by ST. You can find here:
 # 512-Mbyte Block 1 - SRAM
 <p align="center">
   <a href="." title="SRAM">
-    <img src="/resources/stm32f4-overview/stm32f4-memory-mapping/images/Block1.png" title="SRAM" style="width: 100vw; min-width: 200px"/>
+    <img src="/resources/stm32f4-overview/stm32f4-memory-mapping/images/Block1.png" title="SRAM" style="min-width: 200px"/>
   </a>
 </p>
 
@@ -70,7 +70,7 @@ Reference documents I use in this article are provided by ST. You can find here:
 # 512-Mbyte Block 2 - Peripherals
 <p align="center">
   <a href="." title="Peripherals">
-    <img src="/resources/stm32f4-overview/stm32f4-memory-mapping/images/Block2.png" title="Peripherals" style="width: 100vw; min-width: 200px"/>
+    <img src="/resources/stm32f4-overview/stm32f4-memory-mapping/images/Block2.png" title="Peripherals" style="min-width: 200px"/>
   </a>
 </p>
 
@@ -82,7 +82,7 @@ Reference documents I use in this article are provided by ST. You can find here:
 # 512-Mbyte Block 3 & 4 - FSMC Banks
 <p align="center">
   <a href="." title="FSMC Banks">
-    <img src="/resources/stm32f4-overview/stm32f4-memory-mapping/images/Block34.png" title="FSMC Banks" style="width: 100vw; min-width: 200px"/>
+    <img src="/resources/stm32f4-overview/stm32f4-memory-mapping/images/Block34.png" title="FSMC Banks" style="min-width: 200px"/>
   </a>
 </p>
 
@@ -99,7 +99,7 @@ Reference documents I use in this article are provided by ST. You can find here:
 # 512-Mbyte Block 5 - FSMC Registers
 <p align="center">
   <a href="." title="FSMC Registers">
-    <img src="/resources/stm32f4-overview/stm32f4-memory-mapping/images/Block5.png" title="FSMC Registers" style="width: 100vw; min-width: 200px"/>
+    <img src="/resources/stm32f4-overview/stm32f4-memory-mapping/images/Block5.png" title="FSMC Registers" style="min-width: 200px"/>
   </a>
 </p>
 
@@ -117,7 +117,7 @@ Reference documents I use in this article are provided by ST. You can find here:
 # 512-Mbyte Block 7 - Cortex-M4's Internal Peripherals
 <p align="center">
   <a href="." title="Cortex-M4's Internal Peripherals">
-    <img src="/resources/stm32f4-overview/stm32f4-memory-mapping/images/Block7.png" title="Cortex-M4's Internal Peripherals" style="width: 100vw; min-width: 200px"/>
+    <img src="/resources/stm32f4-overview/stm32f4-memory-mapping/images/Block7.png" title="Cortex-M4's Internal Peripherals" style="min-width: 200px"/>
   </a>
 </p>
 
@@ -136,19 +136,19 @@ Reference documents I use in this article are provided by ST. You can find here:
 
 <p align="center">
   <a href="." title="Register boundary addresses">
-    <img src="/resources/stm32f4-overview/stm32f4-memory-mapping/images/address_bus1.png" title="Register boundary addresses" style="width: 100vw; min-width: 200px"/>
+    <img src="/resources/stm32f4-overview/stm32f4-memory-mapping/images/address_bus1.png" title="Register boundary addresses" style="min-width: 200px"/>
   </a>
 </p>
 
 <p align="center">
   <a href="." title="Register boundary addresses">
-    <img src="/resources/stm32f4-overview/stm32f4-memory-mapping/images/address_bus2.png" title="Register boundary addresses" style="width: 100vw; min-width: 200px"/>
+    <img src="/resources/stm32f4-overview/stm32f4-memory-mapping/images/address_bus2.png" title="Register boundary addresses" style="min-width: 200px"/>
   </a>
 </p>
 
 <p align="center">
   <a href="." title="Register boundary addresses">
-    <img src="/resources/stm32f4-overview/stm32f4-memory-mapping/images/address_bus3.png" title="Register boundary addresses" style="width: 100vw; min-width: 200px"/>
+    <img src="/resources/stm32f4-overview/stm32f4-memory-mapping/images/address_bus3.png" title="Register boundary addresses" style="min-width: 200px"/>
   </a>
 </p>
 
@@ -163,7 +163,7 @@ Reference documents I use in this article are provided by ST. You can find here:
 If you find these topics helpful, you can support me by buying a coffee :coffee: using the button below :point_down:. Your support motivates me to create more valuable content. Thank you! :pray:
 <p align="center">
   <a href="https://github.com/hothienai/donate-me-a-coffee" title="Buy me a coffee">
-    <img src="/assets/images/buy-me-a-coffee.png" title="Buy me a coffee" style="width: 100vw; min-width: 200px"/>
+    <img src="/assets/images/buy-me-a-coffee.png" title="Buy me a coffee" style="min-width: 200px"/>
   </a>
 </p>
 
@@ -171,7 +171,7 @@ If you find these topics helpful, you can support me by buying a coffee :coffee:
 This page is authorized by Ho Thien Ai.
 <p align="center">
   <a href="https://github.com/hothienai/" title="Sigma eLabs">
-    <img src="/assets/images/sigma-elabs-banner.png" title="Sigma eLabs" style="width: 100vw; min-width: 200px"/>
+    <img src="/assets/images/sigma-elabs-banner.png" title="Sigma eLabs" style="min-width: 200px"/>
   </a>
 </p>
 
