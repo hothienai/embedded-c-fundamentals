@@ -159,7 +159,8 @@ Reference documents I use in this article are provided by ST. You can find here:
 * LinkedIn [Thien Ai Ho](https://www.linkedin.com/in/thien-ai-ho/)
 
 :thumbsup: I always welcome your ideas and appreciate your interest!
-# Buy me a coffee
+
+# Donate me a coffee
 If you find these topics helpful, you can support me by buying a coffee :coffee: using the button below :point_down:. Your support motivates me to create more valuable content. Thank you! :pray:
 <p align="center">
   <a href="https://github.com/hothienai/donate-me-a-coffee" title="Buy me a coffee">

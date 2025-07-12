@@ -190,11 +190,12 @@ So, what is the functionality of these components in the microcontroller?
 * LinkedIn [Thien Ai Ho](https://www.linkedin.com/in/thien-ai-ho/).
 
 :thumbsup: I'm always welcome your ideas and thank for your insteresting!
-# Buy me a coffee
-If you see the topics are useful, you can support me a coffee :coffee: by clicking the button below :point_down:. It will be a big motivation for me to bring more wonderful topics. Thank you! :pray:
+
+# Donate me a coffee
+If you find these topics helpful, you can support me by buying a coffee :coffee: using the button below :point_down:. Your support motivates me to create more valuable content. Thank you! :pray:
 <p align="center">
   <a href="https://github.com/hothienai/donate-me-a-coffee" title="Buy me a coffee">
-    <img src="/assets/images/buy-me-a-coffee.png" title="Buy me a coffee" style="width: 100vw; min-width: 200px"/>
+    <img src="/assets/images/buy-me-a-coffee.png" title="Buy me a coffee" style="min-width: 200px"/>
   </a>
 </p>
 
