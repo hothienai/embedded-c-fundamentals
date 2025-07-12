@@ -193,7 +193,7 @@ So, what is the functionality of these components in the microcontroller?
 # Buy me a coffee
 If you see the topics are useful, you can support me a coffee :coffee: by clicking the button below :point_down:. It will be a big motivation for me to bring more wonderful topics. Thank you! :pray:
 <p align="center">
-  <a href="https://github.com/HoThienAi/donate-me-a-coffee" title="Buy me a coffee">
+  <a href="https://github.com/hothienai/donate-me-a-coffee" title="Buy me a coffee">
     <img src="/assets/images/buy-me-a-coffee.png" title="Buy me a coffee" style="width: 100vw; min-width: 200px"/>
   </a>
 </p>
@@ -201,13 +201,13 @@ If you see the topics are useful, you can support me a coffee :coffee: by clicki
 # Author
 This page is authorized by Ho Thien Ai.
 <p align="center">
-  <a href="https://github.com/HoThienAi/" title="Sigma eLabs">
+  <a href="https://github.com/hothienai/" title="Sigma eLabs">
     <img src="/assets/images/sigma-elabs-banner.png" title="Sigma eLabs" style="width: 100vw; min-width: 200px"/>
   </a>
 </p>
 
 # Back to Homepage
-:house: [Back to Homepage](https://github.com/HoThienAi/embedded-c-fundamentals)
+:house: [Back to Homepage](https://github.com/hothienai/embedded-c-fundamentals)
 
 # Explore more
-:point_right: [Explore more](https://github.com/HoThienAi)
+:point_right: [Explore more](https://github.com/hothienai)
