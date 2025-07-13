@@ -20,8 +20,10 @@
 :books: List of topics you can explore here:
 | Topic     | Description |
 | :-------- | :-------    |
+| [Embedded C Programming](/resources/embedded-c-programming/)  | Focuses on best practices and techniques for writing efficient, reliable, and maintainable code for embedded systems |
 | [Microcontroller Architecture Overview](/resources/uc-architecture/)  | What is key components of microcontroller architecture? |
-| [STM32F4 Overview](/resources/stm32f4-overview/)  | Basic information about STM32F4 microcontroller lines |
+| [STM32F4 Programming](/resources/stm32f4-programming/)  | Essential concepts and practical techniques for working with the STM32F4 series microcontrollers |
+| [STM32F1 Programming](/resources/stm32f1-programming/)  | Essential concepts and practical techniques for working with the STM32F4 series microcontrollers |
 
 # Requisitions
 The below requistions are used for demostration only. For your case, you can choose another setup and implement the idea provided in the examples.
@@ -34,6 +36,8 @@ The below requistions are used for demostration only. For your case, you can cho
     <img src="/assets/images/discovery-kit-with-stm32f407vg.PNG" title="Discovery kit with STM32F407VG MCU" style="min-width: 200px"/>
   </a>
 </p>
+
+* [STM32F103C8T6Blue Pill](https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill.html)
 
 * [STM32 Nucleo-64 Development Board](https://www.st.com/en/evaluation-tools/nucleo-f401re.html). The main microcontroller on the development kit is ARM Cortex-M4 32-bit. This development kit is also produced by ST. Moreover, there is on-board ST-LINK programmer/debugger that enable user quickly flashes and debugs easily.
 <p align="center">
@@ -96,7 +100,7 @@ The below requistions are used for demostration only. For your case, you can cho
 :thumbsup: I'm always welcome your ideas and thank for your insteresting!
 
 # Author
-This page is authorized by Ho Thien Ai.
+This page is published by Ho Thien Ai.
 <p align="center">
   <a href="https://github.com/hothienai/" title="Sigma eLabs">
     <img src="/assets/images/sigma-elabs-banner.png" title="Sigma eLabs" style="width: 100vw; min-width: 200px"/>

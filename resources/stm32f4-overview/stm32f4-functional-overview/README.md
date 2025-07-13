@@ -1,7 +1,7 @@
 # STM32F40xxx Functional Overview
 <p align="center">
   <a href="." title="STM32F40xxx Functional Overview">
-    <img src="/resources/stm32f4-overview/stm32f4-functional-overview/images/STM32F40xxx_Functional_Overview.png" title="STM32F40xxx Functional Overview" style="min-width: 200px"/>
+    <img src="/resources/stm32f4-programming/stm32f4-functional-overview/images/STM32F40xxx_Functional_Overview.png" title="STM32F40xxx Functional Overview" style="min-width: 200px"/>
   </a>
 </p>
 
@@ -23,7 +23,7 @@ Reference documents I use in this article are provided by [ST Company](https://w
 # STM32F40xxx Block Diagram
 <p align="center">
   <a href="." title="STM32F40xxx Block Diagram">
-    <img src="/resources/stm32f4-overview/stm32f4-functional-overview/images/STM32F40xxx_block_diagram.PNG" title="STM32F40xxx Block Diagram" style="min-width: 200px"/>
+    <img src="/resources/stm32f4-programming/stm32f4-functional-overview/images/STM32F40xxx_block_diagram.PNG" title="STM32F40xxx Block Diagram" style="min-width: 200px"/>
   </a>
 </p>
 
