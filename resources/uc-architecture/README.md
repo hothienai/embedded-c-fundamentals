@@ -120,7 +120,7 @@ This article is published by Ho Thien Ai.
 </p>
 
 # Development Kits
-🚀 Discover the perfect tools for your project and gain your technical skills here :point_down:!
+🚀 Discover the perfect tools for your project and gain your technical skills by clicking the button here :point_down:!
 <p align="center">
   <a href="https://github.com/hothienai/development-kits" title="Development Kits">
     <img src="/assets/images/development_kits.png" title="Development Kits" style="min-width: 200px"/>
