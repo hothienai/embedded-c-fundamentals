@@ -43,8 +43,7 @@ The below requistions are used for demostration only. For your case, you can cho
     <img src="/assets/images/STM32F103C8T6_Blue_Pill-1.jpg" title="STM32F103C8T6 Blue Pill Development Board" style="min-width: 200px"/>
   </a>
 </p>
-
-Source: [stm32-base.org](https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill.html)
+<p align="center">Source: <a href="https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill.html">stm32-base.org</a></p>
 
 * [ST-LINK/V2](https://www.st.com/en/development-tools/st-link-v2.html) is an in-circuit debugger and programmer for the STM8 and STM32 microcontroller families. It allows you to program and debug your microcontroller projects directly from your development environment.
 <p align="center">
@@ -52,8 +51,7 @@ Source: [stm32-base.org](https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill.h
     <img src="/assets/images/st_link_v2.PNG" title="ST-LINK/V2" style="min-width: 200px"/>
   </a>
 </p>
-
-Source: [st.com](https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill.html)
+<p align="center">Source: <a href="https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill.html">st.com</a></p>
 
 * [STM32 Nucleo-64 Development Board](https://www.st.com/en/evaluation-tools/nucleo-f401re.html). The main microcontroller on the development kit is ARM Cortex-M4 32-bit. This development kit is also produced by ST. Moreover, there is on-board ST-LINK programmer/debugger that enable user quickly flashes and debugs easily.
 <p align="center">
