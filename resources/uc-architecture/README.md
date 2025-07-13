@@ -120,12 +120,14 @@ This article is published by Ho Thien Ai.
 </p>
 
 # Development Kits
-🚀 Discover the perfect tools for your project and gain your technical skills here :point_down:!
+🚀 Discover the perfect tools for your project and gain your technical skills by clicking the button here :point_down:!
 <p align="center">
   <a href="https://github.com/hothienai/development-kits" title="Development Kits">
     <img src="/assets/images/development_kits.png" title="Development Kits" style="min-width: 200px"/>
   </a>
 </p>
+
+<p align="center"><a href="https://github.com/hothienai/development-kits">🚀 Discover the perfect development kits here!</a></p>
 
 # Donate me a coffee
 If you find these topics helpful, you can support me by buying a coffee :coffee: using the button below :point_down:. Your support motivates me to create more valuable content. Thank you! :pray:
