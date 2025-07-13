@@ -7,8 +7,7 @@
 
 :dart: Hello everyone, in this article, I would like to share you an overview of STM32F40xxx functionalities. To be honest, I do not work with all the functionalities it has, but I will try explain them based on my understand and research. 
 
-:question: The motivation here is when you are working with a specific microcontroller or plan to select it for your embedded system, you should know a big picture about the features it supports. By knowing that, you can wisely select it and wisely use it to develop your embedded system.
-
+:triangular_flag_on_post: The motivation here is when you are working with a specific microcontroller or plan to select it for your embedded system, you should know a big picture about the features it supports. By knowing that, you can wisely select it and wisely use it to develop your embedded system.
 
 # Table of contents
 :books: This article will cover the below topics:
@@ -27,23 +26,22 @@ Reference documents I use in this article are provided by [ST Company](https://w
   </a>
 </p>
 
-By looking into this block diagram, what are the insides you can find? I hope that you can find some very common components as below:
+:mag_right: By looking into this block diagram, what are the insides you can find? I hope that you can find some very common components as below:
 * Arm Cortex-M4 and internal peripherals (NVIC, MPU, FPU)
 * Memory related components: Flash, SRAM, External Memory Controller
 * Gneral Purpose IO Ports
 * Analog-to-Digital Converters and Digital-to-Analog Coverters
-* Timers
+* Timers and Watch Dog components
 * Communication related components: USARTs, SPIs, I2Cs, CANs...
 * Direct Memory Access components
 * Internal Busess: AHB1, AHB2, AHB3, APB1, APB2
-* Watch Dog components
 * And other components
 
-Every component reposibles for a specific functions in microcontroller. It is depend on the embedded system you develop, some components can be used and some are not.
+:mag_right: Every component reposibles for a specific functions in microcontroller. It is depend on the embedded system you develop, some components can be used and some are not.
 
-I am sorry that I could not go in details about each component in this article because there are a lot of thing I have to study and explain to you. Additionally, in the reference documents, ST has documented very detailed about the functionality of the STM32F40xxx, you can go and find out.
+:mag_right: I am sorry that I could not go in details about each component in this article because there are a lot of thing I have to study and explain to you. Additionally, in the reference documents, ST has documented very detailed about the functionality of the STM32F40xxx, you can go and find out.
 
-I promise you to write another article with more detailed about one component with the practical demostrantion.
+:mag_right: I promise you to write another article with more detailed about one component with the practical demostrantion.
 
 # Contact & Discussion
 :e-mail: If you have anything you’d like to discuss or collaborate on, please feel free to contact me via:

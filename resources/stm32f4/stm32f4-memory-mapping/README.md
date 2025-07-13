@@ -30,7 +30,7 @@
 | 8 | [512-Mbyte Block 7 - Cortex-M4's Internal Peripherals](#512-mbyte-block-7---cortex-m4s-internal-peripherals) |
 | 9 | [Register boundary addresses](#register-boundary-addresses) |
 
-Reference documents I use in this article are provided by ST. You can find here:
+Reference documents I use in this article are provided by [ST Company](https://www.st.com/content/st_com/en.html). You can find here:
 * [STM32F405xx STM32F407xx Datasheet](https://www.st.com/resource/en/datasheet/dm00037051.pdf)
 * [RM0090 Reference Manual](https://www.st.com/resource/en/reference_manual/dm00031020-stm32f405-415-stm32f407-417-stm32f427-437-and-stm32f429-439-advanced-arm-based-32-bit-mcus-stmicroelectronics.pdf)
 
@@ -160,19 +160,19 @@ Reference documents I use in this article are provided by ST. You can find here:
 
 :thumbsup: I always welcome your ideas and appreciate your interest!
 
+# Author
+This article is published by Ho Thien Ai.
+<p align="center">
+  <a href="https://github.com/hothienai/" title="Sigma eLabs">
+    <img src="/assets/images/sigma-elabs-banner.png" title="Sigma eLabs" style="min-width: 200px"/>
+  </a>
+</p>
+
 # Donate me a coffee
 If you find these topics helpful, you can support me by buying a coffee :coffee: using the button below :point_down:. Your support motivates me to create more valuable content. Thank you! :pray:
 <p align="center">
   <a href="https://github.com/hothienai/donate-me-a-coffee" title="Buy me a coffee">
     <img src="/assets/images/buy-me-a-coffee.png" title="Buy me a coffee" style="min-width: 200px"/>
-  </a>
-</p>
-
-# Author
-This page is authorized by Ho Thien Ai.
-<p align="center">
-  <a href="https://github.com/hothienai/" title="Sigma eLabs">
-    <img src="/assets/images/sigma-elabs-banner.png" title="Sigma eLabs" style="min-width: 200px"/>
   </a>
 </p>
 
