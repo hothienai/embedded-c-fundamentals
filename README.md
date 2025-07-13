@@ -37,7 +37,7 @@ The below requistions are used for demostration only. For your case, you can cho
   </a>
 </p>
 
-* [STM32F103C8T6 Blue Pill Development Board](https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill.html). The Blue Pill is a popular and affordable development board based on the STM32F103C8T6 microcontroller. It offers a range of GPIO pins, built-in peripherals, and flexible connectivity options, making it ideal for learning, prototyping, and developing embedded applications.
+* [STM32F103 Blue Pill Development Board](https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill.html). The Blue Pill is a popular and affordable development board based on the STM32F103 microcontroller. It offers a range of GPIO pins, built-in peripherals, and flexible connectivity options, making it ideal for learning, prototyping, and developing embedded applications.
 <p align="center">
   <a href="." title="STM32F103C8T6 Blue Pill Development Board">
     <img src="/assets/images/STM32F103C8T6_Blue_Pill-1.jpg" title="STM32F103C8T6 Blue Pill Development Board" style="min-width: 200px"/>
