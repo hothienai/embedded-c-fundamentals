@@ -127,6 +127,8 @@ This article is published by Ho Thien Ai.
   </a>
 </p>
 
+<p align="center"><a href="https://github.com/hothienai/development-kits">🚀 Discover the perfect development kits here!</a></p>
+
 # Donate me a coffee
 If you find these topics helpful, you can support me by buying a coffee :coffee: using the button below :point_down:. Your support motivates me to create more valuable content. Thank you! :pray:
 <p align="center">
